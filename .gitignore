@@ -1,0 +1,12 @@
+__pycache__
+.cache
+.DS_Store
+.eggs
+.ipynb_checkpoints
+.pytest_cache
+.venv
+.vscode
+*.egg-info
+build
+dist
+venv
